@@ -25,6 +25,7 @@ add_service_files(
   CurrentWaypoint.srv
   GetWaypoints.srv
   SetWaypoints.srv
+  CheckWaypointReached.srv
 )
 
 generate_messages(DEPENDENCIES
