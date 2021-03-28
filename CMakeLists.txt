@@ -16,6 +16,7 @@ add_message_files(
   SimplePoseStamped.msg
   SimpleVelocities.msg
   ProximitySensors.msg
+  LaserScan.msg
 )
 
 add_service_files(
